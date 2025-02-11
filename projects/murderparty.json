@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "synced_at": "2025-02-11T19:35:48.775Z",
+    "repo_name": "murderparty",
+    "last_update": "2024-10-30T23:24:39Z"
+  },
+  "analysis": [
+    {
+      "name": "murderparty",
+      "analysis": {
+        "name": "murderparty",
+        "description": null,
+        "type": "Game (likely 3D - based on `.glb` files)",
+        "tech_stack": [
+          "GDScript",
+          "Godot Engine"
+        ],
+        "achievements": [],
+        "key_features": [],
+        "skills": [
+          "Game Development",
+          "3D Modeling/Importing",
+          "GDScript Programming",
+          "Game Design (potentially)"
+        ]
+      }
+    }
+  ]
+}
