@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "synced_at": "2025-02-12T16:30:52.940Z",
+    "repo_name": "murderparty",
+    "last_update": "2024-10-30T23:24:39Z"
+  },
+  "analysis": [
+    {
+      "name": "murderparty",
+      "description": "A game project likely developed using the Godot Engine.",
+      "type": "Game",
+      "tech_stack": [
+        "GDScript",
+        "Godot Engine",
+        "GLB",
+        "Tscn",
+        "PNG",
+        "GLSL"
+      ],
+      "achievements": [
+        "Developed core game mechanics, including 3D model import and resource management.",
+        "Designed and implemented game assets using varied formats such as glb, png.",
+        "Established project structure, including directories for models, scenes, scripts, assets, and shaders."
+      ],
+      "key_features": [
+        "3D Model Integration:  Includes 3D models (.glb) showcasing direct implementation within the game environment.",
+        "Scene Management:  Manages game scenes (.tscn) indicating the orchestration of game elements and event handling.",
+        "Shader Implementation: Employs shader code within the game, suggesting visual customization or effects."
+      ],
+      "skills": [
+        "Game Development: Extensive knowledge and experience in game development principles.",
+        "3D Modeling and Asset Integration: Proficient in integrating 3D models, textures, and assets into a game engine.",
+        "Scripting: Applied scripting to develop game logic and control gameplay features using GDScript."
+      ]
+    }
+  ]
+}
