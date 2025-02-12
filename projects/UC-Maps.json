@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "synced_at": "2025-02-12T20:02:59.563Z",
+    "repo_name": "UC-Maps",
+    "last_update": "2024-04-10T19:08:44Z"
+  },
+  "analysis": {
+    "name": "UC-Maps",
+    "description": "A mobile application designed to map the University of Cincinnati campus.",
+    "type": "Mobile Application",
+    "tech_stack": [
+      "Dart",
+      "Flutter"
+    ],
+    "achievements": [
+      "Developed a cross-platform mobile application supporting Android, iOS, web, and desktop leveraging Flutter framework.",
+      "Implemented location-based features, providing users with campus navigation capabilities.",
+      "Successfully structured the project for future scalability and maintainability with adherence to established best practices."
+    ],
+    "key_features": [
+      "Utilized a cross-platform framework enabling a single codebase to target multiple operating systems.",
+      "Incorporated user interface designs for easy navigation and intuitive use.",
+      "Enabled future integration of the maps with other services such as scheduling or resource location."
+    ],
+    "skills": [
+      "Cross-Platform Mobile Development",
+      "Dart Programming and Flutter Framework",
+      "Version Control with Git"
+    ]
+  }
+}
